@@ -1,1 +1,1 @@
-# Arabic-Sentiment-Analysis-using-CNN
+# Arabic Sentiment Analysis and Text Classification (Using CNN)
